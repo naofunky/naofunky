@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![naofunky's GitHub stats](https://github-readme-stats.vercel.app/api?username=naofunky&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naofunky&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/naofunky/github-readme-stats)
